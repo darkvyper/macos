@@ -13,8 +13,8 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Hi, this is Manish. I am a BTech. student at the Computer and
+              Engineering department of Silicon University.
             </div>
           </div>
         )
@@ -45,18 +45,18 @@ const terminal: TerminalData[] = [
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                officiallymanishh@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/darkvyper"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
+                @darkvyper
               </a>
             </li>
             <li>
@@ -73,35 +73,24 @@ const terminal: TerminalData[] = [
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/mxnish"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                Manish Kumar Jha
               </a>
             </li>
-            <li>
+            {/* <li>
               Personal Website:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.io"
+                href="https://xyz.io"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.io
+                https://xyz.io
               </a>
-            </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                @西伯利亚大恶龙
-              </a>
-            </li>
+            </li> */}
           </ul>
         )
       }
